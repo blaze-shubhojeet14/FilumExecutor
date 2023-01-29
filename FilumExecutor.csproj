@@ -12,10 +12,14 @@
     <Description>Executes terminal-based commands with advanced controls</Description>
     <Copyright>Blaze Devs 2022-2023. All rights reserved.</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <ApplicationIcon>Resources\Icons\terminal.ico</ApplicationIcon>
     <NoWin32Manifest>true</NoWin32Manifest>
     <PackageIcon>terminal.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/blaze-shubhojeet14/FilumExecutor</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -31,6 +35,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Update="Resources\Icons\terminal.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
