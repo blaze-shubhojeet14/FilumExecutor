@@ -1,1 +1,34 @@
-# FilumExecuter
+# FilumExecutor
+This is a simple CLI application that can execute terminal-based commands with advanced controls over the commands.
+
+# Requirements
+- Windows 7 and above 
+<br>
+That's it :)
+
+# Credits
+- Application developed by Shubhojeet Choudhury and Blaze Devs
+- Logo designed by <a href="https://www.flaticon.com/free-icons/terminal" title="terminal icons"> Freepik - Flaticon</a>
+
+# LICENSE
+MIT License
+
+Copyright (c) 2023 Shubhojeet Choudhury and Blaze Devs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
